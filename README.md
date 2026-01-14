@@ -42,7 +42,7 @@ pip install numpy matplotlib
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/dartboard-monte-carlo.git
+git clone https://github.com/BUAksakal/dartboard-monte-carlo.git
 cd dartboard-monte-carlo
 ```
 
