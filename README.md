@@ -6,6 +6,7 @@ A beautiful and intuitive visualization of Monte Carlo simulation using a realis
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.0+-orange.svg)
 ![NumPy](https://img.shields.io/badge/NumPy-1.19+-green.svg)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+<img width="1149" height="1190" alt="download" src="https://github.com/user-attachments/assets/4f1d1115-4d8f-40fc-8715-37ee604bda71" />
 
 ## 📋 Overview
 
