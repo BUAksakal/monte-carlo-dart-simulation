@@ -48,7 +48,7 @@ cd dartboard-monte-carlo
 
 2. Run the simulation:
 ```bash
-python dartboard_simulation.py
+python mcds_main.py
 ```
 
 ## 💻 Usage
